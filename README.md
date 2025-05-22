@@ -14,9 +14,9 @@
 <p align="center">📍 Mozambique, Maputo</p>
 <p align="center">📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
 
-<h2 align="center">Connect with Me:</h2>
+<h2>Connect with Me:</h2>
 
-<p align="center">
+<p>
   <a href="https://wa.me/258877740104" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
