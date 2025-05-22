@@ -11,7 +11,7 @@
   always evolving through real-world challenges.
 </p>
 
-<p">📍 Mozambique, Maputo</p>
+<p>📍 Mozambique, Maputo</p>
 <p>📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
 
 <h2>Connect with Me:</h2>
