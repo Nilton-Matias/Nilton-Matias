@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">📍 Mozambique, Maputo</p>
-<p align="center">📧 <a></a>niltonmatias.dev@outlook.com</a></p>
+<p align="center">📧 mailto:niltonmatias.dev@outlook.com</p>
 
 
 
