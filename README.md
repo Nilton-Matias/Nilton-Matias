@@ -12,19 +12,6 @@
 
 
 
-
-<h1 align="center">💻 Technologies</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-</p>
-
-
-
-
 <h1 align="center">🤝 Connect with Me</h1>
 
 <p align="center">
