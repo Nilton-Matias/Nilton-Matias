@@ -15,7 +15,7 @@
 <h4>Connect with Me:</h4>
 
 <p>
-  <p align="center" style="font-size: 0;">
+  <p style="font-size: 0;">
   <a href="https://wa.me/258877740104" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="50" height="50" style="border-radius: 50%;" />
   </a>
