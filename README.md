@@ -1,7 +1,5 @@
 <h1 align="center">Hi👋, I'm Nilton</h1>
 
-<h3 align="center">Software Developer · Mobile & Web</h3>
-
 <p align="end">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias/niltonmatias" alt="profile views" />
 </p>
