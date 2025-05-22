@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Oi, eu sou o Nilton
 
-<!--
-**Nilton-Matias/Nilton-Matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer · Mobile & Web
 
-Here are some ideas to get you started:
+Desenvolvedor focado em **Flutter** & **Laravel**. Apaixonado por resolver problemas reais com tecnologia e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Baseado em [sua localização, se quiser incluir]  
+📧 seuemail@email.com
+
+---
+
+### 🚀 Projetos
+
+Veja meus estudos e projetos em: [Meu Portfólio](https://seu-link-aqui.com)
+
+---
+
+### 💻 Tecnologias
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+---
+
+### 🌐 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/seu-perfil) • [Portfólio](https://seu-link-aqui.com)
+
