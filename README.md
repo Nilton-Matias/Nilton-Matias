@@ -1,22 +1,35 @@
-# 👋 Hi, I'm Nilton
+<h1 align="center">👋 Hi, I'm Nilton</h1>
 
-### Software Developer · Mobile & Web
+<h3 align="center">Software Developer · Mobile & Web</h3>
 
-I build Android apps and backend solutions that bring ideas to life — always learning, always evolving through real-world challenges.
+<p align="center">
+  I build Android apps and backend solutions that bring ideas to life — always learning,<br>
+  always evolving through real-world challenges.
+</p>
 
-📍 Based in [Mozambique, Maputo]  
-📧 niltonmatias.dev@outlook.com
+<p align="center">📍 Mozambique, Maputo</p>
+<p align="center">📧 niltonmatias.dev@outlook.com</p>
 
+---
 
 ### 💻 Technologies
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)]  
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)]  
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)]  
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)]
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+</p>
 
+---
 
 ### 🤝 Connect with Me
 
-[![](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/258877740104)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilton-matias-nhanteme-8580aa366)
+<p align="center">
+  <a href="https://wa.me/258877740104" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/nilton-matias-nhanteme-8580aa366" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
