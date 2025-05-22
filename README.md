@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">📍 Mozambique, Maputo</p>
-<p align="center">📧 niltonmatias.dev@outlook.com</p>
+<a align="center">📧 niltonmatias.dev@outlook.com</a>
 
----
+
 
 ### 💻 Technologies
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
 </p>
 
----
+
 
 ### 🤝 Connect with Me
 
