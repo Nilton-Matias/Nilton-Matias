@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Nilton</h1>
+<h1 align="center">Hi👋, I'm Nilton</h1>
 
 <h3 align="center">Software Developer · Mobile & Web</h3>
 
@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">🤝 Connect with Me</h1>
+<h2 align="center">Connect with Me:</h2>
 
 <p align="center">
   <a href="https://wa.me/258877740104" target="_blank">
