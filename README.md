@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias/niltonmatias" alt="profile views" />
 </p>
 
-<p align="center">
+<p>
   I build Android apps and backend solutions that bring ideas to life — always learning,<br>
   always evolving through real-world challenges.
 </p>
