@@ -12,7 +12,7 @@
 <p>📍 Mozambique, Maputo</p>
 <p>📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
 
-<h2>Connect with Me:</h2>
+<h4>Connect with Me:</h4>
 
 <p>
   <a href="https://wa.me/258877740104" target="_blank">
