@@ -13,7 +13,7 @@
 
 
 
-### 💻 Technologies
+<h1 align="center">💻 Technologies</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
@@ -25,7 +25,7 @@
 
 
 
-### 🤝 Connect with Me
+<h1 align="center">🤝 Connect with Me</h1>
 
 <p align="center">
   <a href="https://wa.me/258877740104" target="_blank">
