@@ -1,10 +1,10 @@
 <h1 align="center">Hi👋, I'm Nilton</h1>
 
 <h3 align="center">Software Developer · Mobile & Web</h3>
-<p align="end">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias" alt="profile views" />
-</p>
 
+<p align="end">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias/niltonmatias" alt="profile views" />
+</p>
 
 <p align="center">
   I build Android apps and backend solutions that bring ideas to life — always learning,<br>
@@ -13,8 +13,6 @@
 
 <p align="center">📍 Mozambique, Maputo</p>
 <p align="center">📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
-
-
 
 <h2 align="center">Connect with Me:</h2>
 
