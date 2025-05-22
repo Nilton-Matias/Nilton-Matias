@@ -17,7 +17,7 @@
 <p>
   <p style="font-size: 0;">
   <a href="https://wa.me/258877740104" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="50" height="50" style="border-radius: 50%;" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" width="24" height="24" style="border-radius: 50%;" />
   </a>
   <a href="https://www.linkedin.com/in/nilton-matias-nhanteme-8580aa366" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="50" height="50" style="border-radius: 50%;" />
