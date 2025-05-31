@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nilton</h1>
 
-<p align="center">
+<p align="end">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=niltonmatias/niltonmatias" alt="Profile Views" />
 </p>
 
-## 💻 Software Developer
+## 🔗 Software Developer
 
 - 🌱 Learning through real-world projects  
 - 📍 Based in Maputo, Mozambique  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://wa.me/258877740104" target="_blank">
@@ -20,6 +20,4 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/nilton-matias" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-</p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" al
