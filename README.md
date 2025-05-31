@@ -5,8 +5,8 @@
 </p>
 
 ## 🔗 Software Developer
+🌱 Learning through real-world projects  
 
-- 🌱 Learning through real-world projects  
 - 📍 Based in Maputo, Mozambique  
 - 📧 Contact me at: [niltonmatias.dev@outlook.com](mailto:niltonmatias.dev@outlook.com)
 
