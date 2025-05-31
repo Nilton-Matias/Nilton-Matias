@@ -6,9 +6,9 @@
 
 **Software Developer**
 
-<p> Learning through real-world projects.</p>
-<p>📍 Mozambique, Maputo</p>
-<p>📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
+<p>   • Learning through real-world projects.</p>
+<p>   •📍 Mozambique, Maputo</p>
+<p>   •📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
 
 <h4>Connect with Me:</h4>
 
