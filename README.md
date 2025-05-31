@@ -6,8 +6,7 @@
 
 **Software Developer**
 
-Creating robust solutions across backend, mobile, and frontend to turn ideas into impactful digital experiences. Continuously learning and evolving through real-world challenges, always focused on efficiency and meaningful results.
-
+<p>Learning through real-world projects.</p>
 <p>📍 Mozambique, Maputo</p>
 <p>📧 <a href="mailto:niltonmatias.dev@outlook.com">niltonmatias.dev@outlook.com</a></p>
 
